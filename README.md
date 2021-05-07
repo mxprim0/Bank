@@ -1,5 +1,6 @@
 # Prática .NET
-## POO na prática: criando uma aplicação de transferências bancárias com .NET
+## POO na prática: 
+## Criando uma aplicação de transferências bancárias com .NET
 ### Digital Innovation One
 
 ## Objetivos do Projeto
